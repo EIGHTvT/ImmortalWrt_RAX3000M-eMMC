@@ -1,4 +1,4 @@
-name: Build RAX3000M-eMMC OpenWrt
+name: Build RAX3000M-eMMC ImmortalWrt
 
 on:
   repository_dispatch:
